@@ -11,7 +11,7 @@ setup(
     install_requires=[
         'curses-menu', 
     ],
-    package_data={ '': ['sentences.json']},
+    package_data={ '': ['*.json']},
     entry_points={
         'console_scripts': [
             'typerush = typing_1:main',  
