@@ -3,7 +3,6 @@ import json
 import random
 import time
 import sys
-import os
 
 CTRL_R = 18
 CTRL_A = 1    
@@ -19,9 +18,7 @@ class Display:
         curses.wrapper(self.printSentence)
     
     def generateSentences(self):
-        script_dir = os.path.dirname(__file__) 
-        file_path = os.path.join(script_dir, 'sentences.json')
-        with open(file_path,'r') as file:
+        with open("sentences.json",'r') as file:
             data = json.load(file) 
         return data['words']
     
@@ -228,9 +225,7 @@ class Display:
         curses.textpad.rectangle(stdscr,3,6,y-3,x-6)
         yCenter = self.y//2
         xCenter = self.x//2
-        script_dir = os.path.dirname(__file__) 
-        file_path = os.path.join(script_dir, 'sentences.json')
-        with open(file_path,'r') as file:
+        with open("sentences.json",'r') as file:
             data = json.load(file) 
             ranking = data['score']
             prevScore = ranking[0][0]
@@ -283,9 +278,7 @@ class Display:
 
         stdscr.addstr(y1+2,xCenter - (len(text) // 2), text, curses.color_pair(4))
         stdscr.refresh()
-        script_dir = os.path.dirname(__file__) 
-        file_path = os.path.join(script_dir, 'sentences.json')
-        with open(file_path,"w") as file:
+        with open("sentences.json","w") as file:
             json.dump(data,file)
         self.nextAction(stdscr)
         
