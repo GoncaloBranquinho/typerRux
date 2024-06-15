@@ -7,6 +7,9 @@ Test your typing speed and accuracy with randomly generated sentences
   • Python 
   
   • Curses Library 
+
+# Installation
+    [Documentation](http)
 # Features
 
  • Sentence generation from a JSON file.
