@@ -7,7 +7,7 @@ Test your typing speed and accuracy with randomly generated sentences
   • Python 
   
   • Curses Library 
-  ## Windows users
+  ### Windows users
   You will need to install windows-curses before running my game
 
 
