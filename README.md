@@ -17,6 +17,8 @@ Test your typing speed and accuracy with randomly generated sentences
 
 
     pip install typerux
+  
+  Remember to check for upgrades with `pip install --upgrade typerux`
 # Run the game
   
   
