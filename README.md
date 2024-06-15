@@ -31,4 +31,6 @@ Test your typing speed and accuracy with randomly generated sentences
  • Performance metrics including words per minute (WPM) and accuracy percentage.
  
  • User-friendly interface with color-coded feedback
-  
+
+  ![Screenshot from 2024-06-15 02-50-03](https://github.com/GoncaloBranquinho/typerRux/assets/159024022/6932f296-8834-4057-9e99-7b2324920c22)
+
