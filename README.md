@@ -9,6 +9,7 @@ Test your typing speed and accuracy with randomly generated sentences
   • Curses Library 
 
 # Installation
+ You can install my game buy doing:
     pip install typerux
 # Features
 
