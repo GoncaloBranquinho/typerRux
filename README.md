@@ -7,12 +7,9 @@ Test your typing speed and accuracy with randomly generated sentences
 
 ## Prerequisites
   • Python and Curses Library
+  ### Supported operating Systems
+  • Linux and macOS
   
-  ### Windows users
-  You will need to install windows-curses before running my game
-
-
-    pip install windows-curses
 # Installation
  You can install my game by doing:
 
