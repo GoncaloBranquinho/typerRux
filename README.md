@@ -20,7 +20,7 @@ Test your typing speed and accuracy with randomly generated sentences
 ### Run the game
   
   
-  ```typerux```
+ You can just type  ```typerux``` to start the program
 # Features
 
  • Sentence generation from a JSON file.
