@@ -3,7 +3,7 @@ Terminal-based typing challenge game built in python with using curses library.
 
 Test your typing speed and accuracy with randomly generated sentences
 
-``` Prerequisites
+## Prerequisites
   • Python 
   
   • Curses Library 
