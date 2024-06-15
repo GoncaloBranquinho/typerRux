@@ -1,3 +1,6 @@
+![Screenshot from 2024-06-15 02-48-51](https://github.com/GoncaloBranquinho/typerRux/assets/159024022/2e59a7c5-2ed3-4bf0-92e2-2056a79ab4e0)
+
+
 # Typing Challenge Game
 Terminal-based typing challenge game built in python with using curses library.
 
