@@ -48,11 +48,11 @@ class Display:
     # info to the user
     def printTimeAndHelp(self,stdscr):
         localInfo = time.strftime("%A, %m/%d/%Y")
-        aboutMe = "My Instagram -> @goncalobranquinho2005"
+        txt = "Good Luck!!"
         x1 = self.x//2 - (len(localInfo)//2)
         stdscr.addstr(5,x1,localInfo,curses.color_pair(4))
-        x1 = self.x//2 - (len(aboutMe)//2)
-        stdscr.addstr(7,x1,aboutMe,curses.color_pair(4))
+        x1 = self.x//2 - (len(txt)//2)
+        stdscr.addstr(7,x1,txt,curses.color_pair(4))
 
       
     def changeCursor(self):
