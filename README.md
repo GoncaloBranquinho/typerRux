@@ -1,6 +1,13 @@
 # Typing Challenge Game
-It's a terminal-based game built in python using curses library.
+Terminal-based typing challenge game built in python with using curses library.
 
-## ola
+Test your typing speed and accuracy with randomly generated sentences
 
-### olaa
+# Features
+
+ • Sentence generation from a JSON file.
+
+ • Performance metrics including words per minute (WPM) and accuracy percentage.
+ 
+ • User-friendly interface with color-coded feedback
+  
