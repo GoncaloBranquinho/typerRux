@@ -17,7 +17,7 @@ Test your typing speed and accuracy with randomly generated sentences
 
 
     pip install typerux
-### Run the game
+# Run the game
   
   
  You can just type  ```typerux``` to start the program
