@@ -7,9 +7,12 @@ Test your typing speed and accuracy with randomly generated sentences
   • Python 
   
   • Curses Library 
+  ## Windows user
+  if you don't have you need to install windows-curses
 
+  pip install windows-curses  
 # Installation
- You can install my game buy doing:
+ You can install my game by doing:
 
 
     pip install typerux
