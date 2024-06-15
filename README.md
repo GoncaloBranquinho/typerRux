@@ -10,6 +10,8 @@ Test your typing speed and accuracy with randomly generated sentences
 
 # Installation
  You can install my game buy doing:
+
+
     pip install typerux
 # Features
 
