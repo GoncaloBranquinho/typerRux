@@ -18,7 +18,7 @@ Test your typing speed and accuracy with randomly generated sentences
 
     pip install typerux
 ### Run the game
-''' typerux '''
+  typerux
 # Features
 
  • Sentence generation from a JSON file.
