@@ -5,6 +5,7 @@ Test your typing speed and accuracy with randomly generated sentences
 
 # Prerequisites
   • Python 
+  
   • Curses Library 
 # Features
 
