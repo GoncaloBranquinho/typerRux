@@ -9,7 +9,7 @@ Test your typing speed and accuracy with randomly generated sentences
   • Curses Library 
 
 # Installation
-    [](pip install typerux)
+    (pip install typerux)
 # Features
 
  • Sentence generation from a JSON file.
