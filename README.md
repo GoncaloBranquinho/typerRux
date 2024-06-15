@@ -6,7 +6,7 @@ Test your typing speed and accuracy with randomly generated sentences
 ![Screenshot from 2024-06-15 02-48-51](https://github.com/GoncaloBranquinho/typerRux/assets/159024022/2e59a7c5-2ed3-4bf0-92e2-2056a79ab4e0)
 
 ## Prerequisites
-  • Python and Curses Library installed 
+  • Python and Curses Library
   
   ### Windows users
   You will need to install windows-curses before running my game
