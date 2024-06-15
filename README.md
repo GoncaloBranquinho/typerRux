@@ -4,8 +4,8 @@ Terminal-based typing challenge game built in python with using curses library.
 Test your typing speed and accuracy with randomly generated sentences
 
 # Prerequisites
- ## Python 
- ## Curses Library 
+  • Python 
+  • Curses Library 
 # Features
 
  • Sentence generation from a JSON file.
