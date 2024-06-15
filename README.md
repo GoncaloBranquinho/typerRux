@@ -4,9 +4,8 @@ Terminal-based typing challenge game built in python with using curses library.
 Test your typing speed and accuracy with randomly generated sentences
 
 ## Prerequisites
-  • Python 
+  • Python and Curses Library installed 
   
-  • Curses Library 
   ### Windows users
   You will need to install windows-curses before running my game
 
