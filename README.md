@@ -10,7 +10,7 @@ Test your typing speed and accuracy with randomly generated sentences
   ## Windows user
   if you don't have you need to install windows-curses
 
-  (pip install windows-curses)  
+  [Documentation](https://example.com/docs) 
 # Installation
  You can install my game by doing:
 
