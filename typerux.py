@@ -30,7 +30,7 @@ class Display:
         curses.init_color(2,128,128,128) # grey
         curses.init_color(3,500,1000,750) # green mint
         curses.init_color(4,1000,500,500) # red mint
-        curses.init_color(5,792,892,792) # silver
+        curses.init_color(5,911,766,766) # salmon pink
         curses.init_color(6,755,755,453) # yellow
         curses.init_color(7,800,800,800) #white
         curses.init_color(8,573,573,900) # purple
